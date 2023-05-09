@@ -1,5 +1,5 @@
 package aiss.GitHubMiner.services;
-import aiss.GitLabMiner.models.Project;
+import aiss.GitHubMiner.models.Project;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;

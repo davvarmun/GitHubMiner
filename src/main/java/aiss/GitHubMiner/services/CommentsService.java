@@ -1,6 +1,6 @@
 package aiss.GitHubMiner.services;
 
-import aiss.GitLabMiner.models.Comment;
+import aiss.GitHubMiner.models.Comment;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
