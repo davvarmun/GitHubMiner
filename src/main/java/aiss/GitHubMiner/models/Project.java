@@ -1,4 +1,3 @@
-
 package aiss.GitHubMiner.models;
 
 import java.util.LinkedHashMap;
